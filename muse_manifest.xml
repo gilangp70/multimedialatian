@@ -1,0 +1,74 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gilangpermanaputra.com" resolutions="1x" timestamp="1609208261946">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="288793105" ref="index"/>
+    <file name="index.css" crc="58093846" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u1248.php" crc="4083082635" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="cookie-smiling-png-clipart-crop-u100.png" crc="391895197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u97-4.png" crc="1963405" ref="index"/>
+    <file name="mm-cookies-1-500x500.jpg" crc="53757293" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="087d17eb-500e-4b26-abd1-4f9ffa96a2c6480x270.jpg" crc="4105616795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="thumbprint-cookies-10-5.jpg" crc="4221746394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sugar-cookies-8.jpg" crc="4198839754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar-sugar-cookies-articlelarge.jpg" crc="34947430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chocolate-cookies-3.jpg" crc="473660471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="087d17eb-500e-4b26-abd1-4f9ffa96a2c6200x112.jpg" crc="3967555909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thumbprint-cookies-10-5-crop-u2023.jpg" crc="4107471640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sugar-cookies-8-crop-u2057.jpg" crc="503326665" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ar-sugar-cookies-articlelarge171x113.jpg" crc="228002814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chocolate-cookies-3-crop-u1976.jpg" crc="186882539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img_0744_1-scaled.jpg" crc="136562406" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg" crc="4217269000" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="194993486" seo="true" mt="1609207848565" redirect="true"/>
+</manifest>
